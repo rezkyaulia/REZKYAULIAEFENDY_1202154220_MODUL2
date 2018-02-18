@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">REZKY_1202154220_MODUL2</string>
+    <string name="date">"Tanggal: "</string>
+
+    <string-array name="labels_array">
+
+        <item>Meja 1</item>
+
+        <item>Meja 2</item>
+
+        <item>Meja 3</item>
+
+        <item>Meja 4</item>
+
+        <item>Meja 5</item>
+
+
+    </string-array>
+
+    <string name="date_picker">datePicker</string>
+    <string name="time_picker">timePicker</string>
+    <string name="time">"Waktu: "</string>
+    <string name="pilih_pesanan">Pilih Pesanan</string>
+    <string name="no_meja">No.Meja :</string>
+    <string name="menu">Pilih Menu</string>
+    <string name="dine_in">Dine In</string>
+    <string name="take_away">Take Away</string>
+    <string name="pesan_sekarang">Pesan Sekarang</string>
+    <string name="pemesan">Identitas Pemesan :</string>
+</resources>
