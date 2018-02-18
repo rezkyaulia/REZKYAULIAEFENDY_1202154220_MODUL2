@@ -81,9 +81,6 @@ public class DineIn extends AppCompatActivity {
         }
 
 
-        //membuat string nama dana jumlah untuk mengambil nilai dari TextInputLayout
-     //   String nama1 = a.getEditText().getText().toString();
-//
         //mengirimkan nama dan jumlah ke dalam intent agar bisa di get pada class yang di tuju
         Intent a = new Intent(DineIn.this,ListPesanan.class);
         startActivity(a);
